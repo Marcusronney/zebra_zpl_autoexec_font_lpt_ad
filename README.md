@@ -108,7 +108,7 @@ O Host está ingressado no AD, portanto, o usuário não possuí permissão para
 
 1º - Instale o Driver com o usuário Administrador.
 
-2º - Compartilhe a impressora instalda, ex: zebra_compartilhada.
+2º - Compartilhe a impressora instalada, ex: zebra_compartilhada.
 
 ![Title](image/17.png)
 
@@ -135,7 +135,7 @@ Importe o arquivo já configurado: Inicia_ltp1.xml.
 
 Presets:
 
-![Title](image/lpt.png)![Title](image/lpt2.png)![Title](image/lpt3.png)![Title](image/lpt4.png)
+![Title](image/lpt.PNG)![Title](image/lpt2.PNG)![Title](image/lpt3.PNG)![Title](image/lpt4.PNG)
 
 *Deixe o diretório "Scripts" em C:*
 
