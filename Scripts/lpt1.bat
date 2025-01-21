@@ -1,0 +1,1 @@
+net use lpt1: \\127.0.0.1\zebra_compartilhada /persistent:yes
