@@ -2,7 +2,7 @@
 Utilidade pública - Manager Zebra print. Script de inicialização, envio de fonte, instalação na LPT1 em ambiente AD.
 
 
-Script de inicialização.
+# Script de inicialização.
 
 Para que as fontes sejam selecionadas por padrão ao ligar a impressora, é necessário adicionar um arquivo AUTOEXEC.zpl na memória flash da impressora.
  
@@ -65,7 +65,7 @@ Realize os testes após desligar e ligar a impressora.
 --------------------------
 
 
-Enviando fonts para impressora zebra.
+# Enviando fonts para impressora zebra.
 
 
 Abra o Zebra Setup Utilites.
@@ -102,7 +102,7 @@ Propriedades da impressora > Preferências...> Tools > Action > Send File.
  
  -------------------------------------------------
 
-Utilizando Porta USB como LPT1.
+# Utilizando Porta USB como LPT1.
 
 A máquina onde a impressora foi instalar está ingressada no AD, portanto, o usuário não possuí permissão para executar scripts.
 
