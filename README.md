@@ -104,7 +104,7 @@ Propriedades da impressora > Preferências...> Tools > Action > Send File.
 
 # Utilizando Porta USB como LPT1.
 
-A máquina onde a impressora foi instalar está ingressada no AD, portanto, o usuário não possuí permissão para executar scripts.
+O Host está ingressado no AD, portanto, o usuário não possuí permissão para executar scripts.
 
 1º - Instale o Driver com o usuário Administrador.
 
